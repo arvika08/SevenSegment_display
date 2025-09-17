@@ -65,6 +65,11 @@ You can include the timing diagram from the simulation window showing the correc
 Close the Simulation Once done, by going to Simulation → "Close Simulation
 
 # Input/Output Signal Diagram:
+<img width="603" height="736" alt="image" src="https://github.com/user-attachments/assets/cac7cd37-6d01-4ef0-8134-2733ecb5908c" />
+<img width="811" height="306" alt="image" src="https://github.com/user-attachments/assets/259e994e-aecf-4dcb-8d3e-d7015d158f50" />
+<img width="800" height="602" alt="image" src="https://github.com/user-attachments/assets/04529e6b-6017-4a92-a613-893f241f0f7c" />
+
+
 
 # RTL Code:
 
